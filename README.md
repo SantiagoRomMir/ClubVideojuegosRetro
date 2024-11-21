@@ -22,4 +22,4 @@ Este repositorio gestiona el inventario de un club de videojuegos retro, con un 
 
 ## imagen
 
-!(.\IMAGEN.jpg)
+!(IMAGEN.jpg)
