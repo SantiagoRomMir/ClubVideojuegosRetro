@@ -18,3 +18,8 @@ Este repositorio gestiona el inventario de un club de videojuegos retro, con un 
 | Super Mario Bros      | NES          | 2      |
 | Street Fighter II     | SNES         | 3      |
 | Sonic the Hedgehog    | Sega Genesis | 1      |
+
+
+## imagen
+
+!(.\IMAGEN.jpg)
